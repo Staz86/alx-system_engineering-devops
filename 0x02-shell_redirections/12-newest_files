@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1u | head -10
+ls -la > ls_cwd_content
